@@ -1,0 +1,5 @@
+https://www.jianshu.com/p/cbd5cd504f14
+
+git reset --soft  (files unchanged)
+git reset --mixed (files unchanged)
+git reset --hard  (files deleted)
