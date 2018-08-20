@@ -35,8 +35,3 @@ git reset --hard
 git clean -df
 
 运行后, 工作目录和缓存区回到最近一次commit时候一摸一样的状态，git status会告诉你这是一个干净的工作目录, 又是一个新的开始了！
-
-作者：萤火虫de梦
-链接：https://www.jianshu.com/p/0b05ef199749
-來源：简书
-简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。
