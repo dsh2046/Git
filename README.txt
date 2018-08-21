@@ -1,4 +1,4 @@
-## git log --graph --decorate --oneline
+#git log --graph --decorate --oneline
 
 1. 分支
 查看分支：git branch
