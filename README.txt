@@ -1,7 +1,9 @@
 # git log --graph --decorate --oneline
 # git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
 
-1. 分支
+1. 分支   
+https://www.jianshu.com/p/b357df6794e3
+
 查看分支：git branch
 创建分支：git branch <name>
 切换分支：git checkout <name>
